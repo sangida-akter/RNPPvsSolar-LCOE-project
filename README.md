@@ -16,3 +16,14 @@ It includes:
 ---
 
 ## Repository Structure
+
+---
+
+## Requirements
+- Python 3.9+
+- Libraries: numpy, pandas, matplotlib, seaborn, SALib, numpy_financial
+
+Install dependencies:
+```bash
+pip install numpy pandas matplotlib seaborn SALib numpy-financial
+
