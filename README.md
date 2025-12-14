@@ -1,4 +1,4 @@
-# RNPP-LCOE Project
+# RNPPvsSolar-LCOE Project for Banladesh
 
 **Monte Carlo LCOE Simulation for Rooppur Nuclear Power Plant and Solar PV + 4-hour BESS in Bangladesh**
 
